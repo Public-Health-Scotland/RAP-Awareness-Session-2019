@@ -2,7 +2,7 @@
 title: "Reproducible <br> Analytical Pipelines <br> (RAP)"
 subtitle: "RAP/R Awareness Session"
 author: 'Tina Fu <br> Information Services Division <br>'
-date: "19 July 2019"
+date: "19 July 2019 <br><br> Slides: https://github.com/NHS-NSS-transforming-publications/RAP-Awareness-Session-2019"
 output:
   ioslides_presentation:
     css: my-theme.css
