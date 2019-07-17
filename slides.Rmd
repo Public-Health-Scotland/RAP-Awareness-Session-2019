@@ -82,8 +82,8 @@ include_graphics("images/rap_flow.png")
 
 
 ## Challenges
-- Senior management buy in
 - Culture change (peer review and working in the open)
+- Senior management support
 - New skills for analysts to learn (e.g. R, git)
 - Required development time
 - Range of data sources and/or unstable production process
